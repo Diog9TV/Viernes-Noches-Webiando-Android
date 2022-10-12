@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				49,
+				-228
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "barry idle"
+		},
+		{
+			"offsets": [
+				48,
+				-231
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "barry left"
+		},
+		{
+			"offsets": [
+				47,
+				-62
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "barry up"
+		},
+		{
+			"offsets": [
+				56,
+				-260
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "barrydown"
+		},
+		{
+			"offsets": [
+				36,
+				-226
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "barryright"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Barry",
+	"position": [
+		0,
+		-350
+	],
+	"healthicon": "barry",
+	"flip_x": false,
+	"healthbar_colors": [
+		202,
+		0,
+		0
+	],
+	"camera_position": [
+		-110,
+		350
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
